@@ -21,7 +21,6 @@ Ranking of documentaries from 1982 to present - https://www.boxofficemojo.com/ge
 
 ### Features:
 
-- Rank
 - Title
 - Studio
 - Lifetime Gross
